@@ -2957,7 +2957,7 @@
                     "none"
                 ]
             },
-	    "esm-500os-nooae-esmco2":{
+	    "500os-nooae-esmco2":{
                 "activity_id":[
                     "RESCUE"
                 ],
@@ -2968,7 +2968,7 @@
                 ],
 		"description":"",
                 "experiment":"Concentration-driven no-CDR baseline for esm-1150os-actoae with disabled CDR. CO2 prescribed from the emission-driven scenario with enabled CDR (actoae)",
-                "experiment_id":"esm-500os-nooae-esmco2",
+                "experiment_id":"500os-nooae-esmco2",
                 "parent_activity_id":[
                     "RESCUE"
                 ],
