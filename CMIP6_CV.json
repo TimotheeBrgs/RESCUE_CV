@@ -2717,7 +2717,7 @@
                     "BGC"
                 ],
                 "description":"Peak budget at 1150 GtCO2 without overshoot. Land forcing with BECCS representation in LUC-LCC. Enabled CDR interventions using explicit OAE and BECCS. ",
-                "experiment":"Scenario Pk 1150 Gt CO2 with overshoot and enabled CDR (explicit OAE and BECCS)",
+                "experiment":"Scenario Pk 1150 Gt CO2 without overshoot and enabled CDR (explicit OAE and BECCS)",
                 "experiment":"Scenario Pk 1150 Gt CO2 without overshoot and enabled CDR (explicit OAE and BECCS)",
                 "experiment_id":"esm-1150-actall",
                 "parent_activity_id":[
@@ -2868,7 +2868,7 @@
                     "BGC"
                 ],
                 "description":"Peak budget at 1150 GtCO2 without overshoot. Land forcing with BECCS representation in LUC-LCC. Enabled CDR interventions using explicit OAE and IAMs prescribed exchanges for BECCS",
-                "experiment":"Scenario Pk 1150 Gt CO2 with overshoot and enabled CDR (explicit OAE and prescribed BECCS)",
+                "experiment":"Scenario Pk 1150 Gt CO2 without overshoot and enabled CDR (explicit OAE and prescribed BECCS)",
                 "experiment_id":"esm-1150-actoae",
                 "parent_activity_id":[
                     "RESCUE"
