@@ -2692,7 +2692,7 @@
                     "BGC"
                 ],
                 "description":"End of century budget at 1150 GtCO2 with overshoot. Land forcing with BECCS representation in LUC-LCC. Enabled CDR interventions using explicit OAE and BECCS. ",
-		"experiment":"Scenario EoC 1150 Gt CO2 with overshoot and enabled CDR (explicit OAE and BECCS)",
+                "experiment":"Scenario EoC 1150 Gt CO2 with overshoot and enabled CDR (explicit OAE and BECCS)",
                 "experiment_id":"esm-1150os-actall",
                 "parent_activity_id":[
                     "RESCUE"
@@ -2716,8 +2716,9 @@
                     "CHEM",
                     "BGC"
                 ],
-		"description":"",
+                "description":"Peak budget at 1150 GtCO2 without overshoot. Land forcing with BECCS representation in LUC-LCC. Enabled CDR interventions using explicit OAE and BECCS. ",
                 "experiment":"Scenario Pk 1150 Gt CO2 with overshoot and enabled CDR (explicit OAE and BECCS)",
+                "experiment":"Scenario Pk 1150 Gt CO2 without overshoot and enabled CDR (explicit OAE and BECCS)",
                 "experiment_id":"esm-1150-actall",
                 "parent_activity_id":[
                     "RESCUE"
@@ -2741,7 +2742,7 @@
                     "CHEM",
                     "BGC"
                 ],
-		"description":"",
+                "description":"End of century budget at 500 GtCO2 with overshoot. Land forcing with BECCS representation in LUC-LCC. Enabled CDR interventions using explicit OAE and BECCS. ",
                 "experiment":"Scenario EoC 500 Gt CO2 with overshoot and enabled CDR (explicit OAE and BECCS)",
                 "experiment_id":"esm-500os-actall",
                 "parent_activity_id":[
@@ -2766,8 +2767,8 @@
                     "CHEM",
                     "BGC"
                 ],
-		"description":"",
-                "experiment":"Scenario Pk 500 Gt CO2 with overshoot and enabled CDR (explicit OAE and BECCS)",
+                "description":"Peak budget at 500 GtCO2 without overshoot. Land forcing with BECCS representation in LUC-LCC. Enabled CDR interventions using explicit OAE and BECCS. ",
+                "experiment":"Scenario Pk 500 Gt CO2 without overshoot and enabled CDR (explicit OAE and BECCS)",
                 "experiment_id":"esm-500-actall",
                 "parent_activity_id":[
                     "RESCUE"
@@ -2791,7 +2792,7 @@
                     "CHEM",
                     "BGC"
                 ],
-		"description":"Baseline of EoC 1150 GtCO2 with overshoot. No CDR interventions.",
+                "description":"Baseline of EoC 1150 GtCO2 with overshoot. No CDR interventions.",
                 "experiment":"No-CDR baseline for esm-1150os-actall with disabled CDR",
                 "experiment_id":"esm-1150os-nocdr",
                 "parent_activity_id":[
@@ -2816,7 +2817,7 @@
                     "CHEM",
                     "BGC"
                 ],
-		"description":"Baseline of EoC 1150 GtCO2 with overshoot. No CDR interventions. CO2 prescribed from emission driven scenario with enabled CDR interventions (actall).",
+                "description":"Baseline of EoC 1150 GtCO2 with overshoot. No CDR interventions. CO2 prescribed from emission driven scenario with enabled CDR interventions (actall).",
                 "experiment":"Concentration-driven no-CDR baseline for esm-1150os-actall with disabled CDR. CO2 prescribed from the emission-driven scenario with enabled CDR (actall)",
                 "experiment_id":"1150os-nocdr-esmco2",
                 "parent_activity_id":[
@@ -2841,7 +2842,7 @@
                     "CHEM",
                     "BGC"
                 ],
-		"description":"End of century budget at 1150 GtCO2 with overshoot. Land forcing with BECCS representation in LUC-LCC. Enabled CDR interventions using explicit OAE and IAMs prescribed exchanges for BECCS",
+                "description":"End of century budget at 1150 GtCO2 with overshoot. Land forcing with BECCS representation in LUC-LCC. Enabled CDR interventions using explicit OAE and IAMs prescribed exchanges for BECCS",
                 "experiment":"Scenario EoC 1150 Gt CO2 with overshoot and enabled CDR (explicit OAE and prescribed BECCS)",
                 "experiment_id":"esm-1150os-actoae",
                 "parent_activity_id":[
@@ -2866,7 +2867,7 @@
                     "CHEM",
                     "BGC"
                 ],
-		"description":"",
+                "description":"Peak budget at 1150 GtCO2 without overshoot. Land forcing with BECCS representation in LUC-LCC. Enabled CDR interventions using explicit OAE and IAMs prescribed exchanges for BECCS",
                 "experiment":"Scenario Pk 1150 Gt CO2 with overshoot and enabled CDR (explicit OAE and prescribed BECCS)",
                 "experiment_id":"esm-1150-actoae",
                 "parent_activity_id":[
@@ -2891,7 +2892,7 @@
                     "CHEM",
                     "BGC"
                 ],
-		"description":"",
+                "description":"End of century budget at 500 GtCO2 with overshoot. Land forcing with BECCS representation in LUC-LCC. Enabled CDR interventions using explicit OAE and IAMs prescribed exchanges for BECCS",
                 "experiment":"Scenario EoC 500 Gt CO2 with overshoot and enabled CDR (explicit OAE and prescribed BECCS)",
                 "experiment_id":"esm-500os-actoae",
                 "parent_activity_id":[
@@ -2916,8 +2917,8 @@
                     "CHEM",
                     "BGC"
                 ],
-		"description":"",
-                "experiment":"Scenario Pk 500 Gt CO2 with overshoot and enabled CDR (explicit OAE and prescribed BECCS)",
+                "description":"Peak budget at 500 GtCO2 without overshoot. Land forcing with BECCS representation in LUC-LCC. Enabled CDR interventions using explicit OAE and IAMs prescribed exchanges for BECCS",
+                "experiment":"Scenario Pk 500 Gt CO2 without overshoot and enabled CDR (explicit OAE and prescribed BECCS)",
                 "experiment_id":"esm-500-actoae",
                 "parent_activity_id":[
                     "RESCUE"
@@ -2941,8 +2942,8 @@
                     "CHEM",
                     "BGC"
                 ],
-		"description":"",
-                "experiment":"No-CDR baseline for esm-1150os-actoae with disabled OAE",
+                "description":"Baseline of EoC 500 Gt CO2 with overshoot and enabled CDR (explicit OAE and prescribed BECCS). No OAE intervention.",
+                "experiment":"No-CDR baseline for esm-500os-actoae with disabled OAE",
                 "experiment_id":"esm-500os-nooae",
                 "parent_activity_id":[
                     "RESCUE"
@@ -2966,8 +2967,8 @@
                     "CHEM",
                     "BGC"
                 ],
-		"description":"",
-                "experiment":"Concentration-driven no-CDR baseline for esm-1150os-actoae with disabled CDR. CO2 prescribed from the emission-driven scenario with enabled CDR (actoae)",
+                "description":"Baseline of EoC 500 Gt CO2 with overshoot and enabled CDR (explicit OAE and prescribed BECCS). No OAE interventions. CO2 prescribed from emission driven scenario with enabled OAE intervention (actoae).",
+                "experiment":"Concentration-driven no-CDR baseline for esm-500os-actoae with disabled OAE. CO2 prescribed from the emission-driven scenario with enabled OAE (actoae)",
                 "experiment_id":"500os-nooae-esmco2",
                 "parent_activity_id":[
                     "RESCUE"
